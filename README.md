@@ -14,6 +14,4 @@
 ### Contribuições:
 - [Palestra DTAR](https://www.youtube.com/watch?v=cDBewH3JBn8)
 - [Artigo Medium](https://medium.com/revista-dtar/qa-analisar-ou-n%C3%A3o-log-c%C3%B3digo-ao-realizar-os-testes-2dd3d2b03b0d)
-- [Coautor livro Jornada Java]([https://www.brasport.com.br/informatica-e-tecnologia/java/jornada-java/](https://www.brasport.com.br/informatica-e-tecnologia/java/jornada-java/))
- 
-
+- [Coautor livro Jornada Java](https://www.brasport.com.br/informatica-e-tecnologia/java/jornada-java/)
