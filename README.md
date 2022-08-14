@@ -8,8 +8,8 @@
 - [🚀](https://emojipedia.org/travel-places/) Ajudar empresas a entregarem software com mais qualidade
 - 🤓 Dar mentoria ou ajudar pessoas a melhorarem seus skills e conhecimentos
 - [📖](https://emojipedia.org/world-book-day/) Ensinar sobre: testes, desenvolvimento
-- [📖](https://emojipedia.org/world-book-day/) Ajudar o time com desenvolvimento, testes, problemas ou busca de soluções
-- 🧠 Estudar sobre testes, desenvolvimento
+- [📖](https://emojipedia.org/world-book-day/) Ajudar o time com desenvolvimento, devops, testes, problemas ou busca de soluções
+- 🧠 Estudar sobre testes, desenvolvimento, devops
 
 ### Contribuições:
 - [Palestra DTAR](https://www.youtube.com/watch?v=cDBewH3JBn8)
